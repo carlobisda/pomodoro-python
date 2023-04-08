@@ -1,5 +1,4 @@
 #
-
     NAME: Pomodoro-Python
     AUTHOR: Carlo Bisda
     LICENSE: MIT
